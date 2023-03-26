@@ -1,0 +1,27 @@
+li {
+    list-style-type: none;
+}
+
+button {
+    width: 200px
+}
+
+#scores {
+    display: flex;
+    text-align: center; 
+
+}
+
+#initials {
+    width: 192px;
+}
+
+#highscore {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+footer {
+    margin-left: 1px;
+}
