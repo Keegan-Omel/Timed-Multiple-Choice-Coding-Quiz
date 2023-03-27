@@ -11,15 +11,20 @@ The following project is a timed quiz on JavaScript fundamentals that stores hig
 
 Keegan Omel
 
+
 ## Contributors
 
 Austin Grech,
 
 Bruno Rosarini
 
+
 ## Live Link
+
+keegan-omel.github.io/Timed-Multiple-Choice-Coding-Quiz/
 
 
 ## Githhub Link
 
 https://github.com/Keegan-Omel/Timed-Multiple-Choice-Coding-Quiz
+
